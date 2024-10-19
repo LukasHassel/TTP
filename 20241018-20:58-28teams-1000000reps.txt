@@ -1,0 +1,3 @@
+Double Round Robin Violations average: 551.016532, minimum: 472, maximum: 638
+Maximum Streak Violations average: 178.470937, minimum: 96, maximum: 291
+No Repeat Violations average: 27.487045, minimum: 7, maximum: 55
